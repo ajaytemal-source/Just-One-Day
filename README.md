@@ -4,7 +4,7 @@ Just One Day is a web application designed to help us guide ourselves through th
 
 Reflect, schedule, and act - just one day at a time.
 
-Note: This project is a work in progress, and will be seeing functional updates soon!
+Note: This project is a work in progress, and will be seeing many updates soon!
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
